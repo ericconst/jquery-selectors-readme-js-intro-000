@@ -1,4 +1,4 @@
-function paragraphSelector(){
+function paragraphSelector() {
   var array = [];
   array = $('p');
   return array
